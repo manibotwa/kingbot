@@ -46,24 +46,3 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunkindepadayali&show_icons=true&theme=dark&locale=en" alt="Chunkindepadayali" /></p>
     
-## 馃摙 Guide
-Click WA logo to Join Support Group 馃憞
-    <br>
-<br>
-  [![join](https://github.com/Chunkindepadayali/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
-  <div align="center">
-       
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chunkindepadayali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
- 
-  
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
-                     
-### 鈿狅笍 Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
